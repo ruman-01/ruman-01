@@ -12,29 +12,15 @@
 
 ## 💫 About Me
 
-```bash
-$ whoami --verbose
+I'm a full-stack developer and data analyst with a strong interest in turning raw data into decisions that matter. I'm currently building the **Smart Driver Module** for an Institute Management System, and I enjoy working across the stack — from Django/MySQL backends to Power BI dashboards that make business data easy to act on.
 
-[OK] Identity ......... Abu Ruman Khan
-[OK] Role .............. Full-Stack Developer & Data Analyst
-[OK] Status ............ Building "Smart Driver Module" (Institute Mgmt System)
-[OK] Core Focus ........ Data-driven decision-making & business analytics
-
-$ cat skills.log
-> Python · Pandas · NumPy · Matplotlib · Scikit-learn
-
-$ history | grep experience
-> Data Science Internship @ SkillCraft Technology
-
-$ ls projects/
-> HerbalNest/         # Full-stack e-commerce — Django · MySQL · Razorpay
-> Sales-Dashboards/   # Interactive BI dashboards — Power BI · Power Query
-
-$ ping aburumankhan.17@gmail.com
-> 64 bytes from Abu Ruman Khan: reachable, response=instant 🟢
-
-[DONE] Profile loaded successfully.
-```
+- 🔭 Currently building the **Smart Driver Module** for an Institute Management System
+- 📊 Focused on data-driven decision-making and business analytics
+- 🌱 Skilled in Python, Pandas, NumPy, Matplotlib, and Scikit-learn for data analysis and applied ML
+- 💼 Completed a Data Science internship at **SkillCraft Technology**
+- 🛒 Built **HerbalNest**, a full-stack e-commerce platform (Django, MySQL, Razorpay)
+- 📈 Created interactive sales dashboards using Power BI and Power Query
+- 📫 Reach me at **aburumankhan.17@gmail.com** or on [LinkedIn](https://linkedin.com/in/ruman-01)
 
 <div align="center">
 
