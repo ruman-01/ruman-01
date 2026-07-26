@@ -1,0 +1,6 @@
+cd ruman-01          # your local clone of the repo
+mkdir -p .github/workflows
+# copy snake.yml into .github/workflows/snake.yml
+git add .github/workflows/snake.yml
+git commit -m "Add snake animation workflow"
+git push origin main
