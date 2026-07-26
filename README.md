@@ -12,15 +12,28 @@
 
 ## 💫 About Me
 
-```yaml
-name: "Abu Ruman Khan"
-currently_building: "Smart Driver Module — Institute Management System"
-focus: "Data-driven decision-making & business analytics"
-skills: ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-learn"]
-internship: "Data Science @ SkillCraft Technology"
-project: "HerbalNest — full-stack e-commerce (Django, MySQL, Razorpay)"
-dashboards: "Interactive Sales Dashboards — Power BI + Power Query"
-contact: "aburumankhan.17@gmail.com"
+```bash
+$ whoami --verbose
+
+[OK] Identity ......... Abu Ruman Khan
+[OK] Role .............. Full-Stack Developer & Data Analyst
+[OK] Status ............ Building "Smart Driver Module" (Institute Mgmt System)
+[OK] Core Focus ........ Data-driven decision-making & business analytics
+
+$ cat skills.log
+> Python · Pandas · NumPy · Matplotlib · Scikit-learn
+
+$ history | grep experience
+> Data Science Internship @ SkillCraft Technology
+
+$ ls projects/
+> HerbalNest/         # Full-stack e-commerce — Django · MySQL · Razorpay
+> Sales-Dashboards/   # Interactive BI dashboards — Power BI · Power Query
+
+$ ping aburumankhan.17@gmail.com
+> 64 bytes from Abu Ruman Khan: reachable, response=instant 🟢
+
+[DONE] Profile loaded successfully.
 ```
 
 <div align="center">
